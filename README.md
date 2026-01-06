@@ -21,3 +21,11 @@ Analyze retail sales data to track business KPIs, evaluate SKU performance, and 
 - Python (pandas, numpy) for exploratory data analysis and KPI validation
 
 
+## Business Impact
+
+This analysis demonstrates how retail data can be translated into actionable insights to support:
+- Revenue optimization
+- SKU rationalization
+- Inventory and pricing decisions
+
+The project mirrors real-world analytics workflows used in data-driven organizations.
