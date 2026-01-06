@@ -28,4 +28,4 @@ This analysis demonstrates how retail data can be translated into actionable ins
 - SKU rationalization
 - Inventory and pricing decisions
 
-The project mirrors real-world analytics workflows used in data-driven organizations.
+
