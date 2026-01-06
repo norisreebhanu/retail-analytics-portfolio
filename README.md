@@ -12,7 +12,7 @@ Analyze retail sales data to track business KPIs, evaluate SKU performance, and 
 ### Tools Used
 - SQL (KPI calculations, aggregations)
 - Python (data cleaning and analysis)
-- GitHub (version control and documentation)
+- GitHub (version control and documentations)
 
 ### Status
 In progress — dataset ingestion and initial analysis underway.
