@@ -18,4 +18,6 @@ Analyze retail sales data to track business KPIs, evaluate SKU performance, and 
 - Calculated core business KPIs including revenue, profit, orders, and units sold using SQL
 - Analyzed top and bottom performing SKUs to identify revenue drivers and loss contributors
 - Evaluated category-level performance trends
+- Python (pandas, numpy) for exploratory data analysis and KPI validation
+
 
